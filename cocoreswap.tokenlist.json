@@ -1,0 +1,24 @@
+{
+  "name": "Cocoreswap",
+  "logoURI": "",
+  "keywords": [
+    "cocoreswap",
+    "defi"
+  ],
+  "timestamp": "",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "",
+      "name": "",
+      "symbol": "",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
